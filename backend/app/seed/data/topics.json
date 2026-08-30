@@ -1,0 +1,30 @@
+[
+  {
+    "order_index": 1,
+    "title": "3.1 Taste and Odour Receptors",
+    "description": "How taste and smell receptors detect flavour compounds — the steps of perception, how the signal reaches the brain, and the roles of saliva, memory, and reward in how we experience taste and aroma.",
+    "filename": "01-3-1-taste-and-odour-receptors.txt",
+    "chapter": "Module 3: Drivers of Flavour Perception"
+  },
+  {
+    "order_index": 2,
+    "title": "3.2 Impact of Oral Processing Behaviour and Physiology",
+    "description": "How chewing, saliva, and individual oral physiology shape the way flavour is released and perceived while eating — and why the same food can taste different from one person to the next.",
+    "filename": "02-3-2-impact-of-oral-processing-behaviour-and-physiology.txt",
+    "chapter": "Module 3: Drivers of Flavour Perception"
+  },
+  {
+    "order_index": 3,
+    "title": "4.1 Static and Dynamic Sensory Methods",
+    "description": "An overview of sensory evaluation methods — the static and dynamic techniques used to measure how people perceive a food's flavour, including how that perception changes over the course of a bite.",
+    "filename": "03-4-1-static-and-dynamic-sensory-methods-for-flavour.txt",
+    "chapter": "Module 4: Measuring Flavours in Foods"
+  },
+  {
+    "order_index": 4,
+    "title": "4.2 Static and Dynamic Flavour Analytics",
+    "description": "Instrumental analytical methods — the static and dynamic techniques used to identify and quantify the key aroma compounds responsible for a food's flavour.",
+    "filename": "04-4-2-static-and-dynamic-flavour-analytics-methodologies-for.txt",
+    "chapter": "Module 4: Measuring Flavours in Foods"
+  }
+]
