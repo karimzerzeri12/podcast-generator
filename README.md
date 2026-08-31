@@ -2,8 +2,8 @@
 
 Generates personalized English educational podcasts for students in a course, at a
 target length (5-20 minutes) the admin controls for the whole course. Each student picks
-a **format** — single-narrator monologue, guest expert interview, two-host conversation,
-or debate/steelman — and, for the three dialogue formats, a voice (ElevenLabs) for each
+a **format**  single-narrator monologue, guest expert interview, two-host conversation,
+or debate/steelman and, for the three dialogue formats, a voice (ElevenLabs) for each
 of the two speakers. Scripts are generated with Gemini grounded in course material via a
 small RAG pipeline, then synthesized to audio. Scripts are cached per (topic, format,
 episode length) and audio per (script, voice(s)), so 100 students sharing choices only
